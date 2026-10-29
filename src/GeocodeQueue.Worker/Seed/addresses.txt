@@ -1,0 +1,202 @@
+# Line1|City|Region|PostalCode|Country
+# 200 real, publicly listed addresses (civic buildings, museums, venues, campuses, landmarks) across the US.
+1600 Pennsylvania Ave NW|Washington|DC|20500|US
+1 First St NE|Washington|DC|20543|US
+600 Independence Ave SW|Washington|DC|20560|US
+1000 Jefferson Dr SW|Washington|DC|20560|US
+2 Lincoln Memorial Cir NW|Washington|DC|20037|US
+101 Independence Ave SE|Washington|DC|20540|US
+3001 Connecticut Ave NW|Washington|DC|20008|US
+1500 S Capitol St SE|Washington|DC|20003|US
+350 5th Ave|New York|NY|10118|US
+11 Wall St|New York|NY|10005|US
+1000 5th Ave|New York|NY|10028|US
+200 Central Park West|New York|NY|10024|US
+4 Pennsylvania Plaza|New York|NY|10001|US
+89 E 42nd St|New York|NY|10017|US
+30 Rockefeller Plaza|New York|NY|10112|US
+1 E 161st St|Bronx|NY|10451|US
+41 Seaver Way|Queens|NY|11368|US
+620 Atlantic Ave|Brooklyn|NY|11217|US
+1 City Hall|Buffalo|NY|14202|US
+1 Bills Dr|Orchard Park|NY|14127|US
+4 Jersey St|Boston|MA|02215|US
+100 Legends Way|Boston|MA|02114|US
+1 City Hall Square|Boston|MA|02201|US
+465 Huntington Ave|Boston|MA|02115|US
+77 Massachusetts Ave|Cambridge|MA|02139|US
+1 Patriot Pl|Foxborough|MA|02035|US
+1 Citizens Bank Way|Philadelphia|PA|19148|US
+520 Chestnut St|Philadelphia|PA|19106|US
+2600 Benjamin Franklin Pkwy|Philadelphia|PA|19130|US
+1400 John F Kennedy Blvd|Philadelphia|PA|19107|US
+115 Federal St|Pittsburgh|PA|15212|US
+4400 Forbes Ave|Pittsburgh|PA|15213|US
+333 W Camden St|Baltimore|MD|21201|US
+100 N Holliday St|Baltimore|MD|21202|US
+1 MetLife Stadium Dr|East Rutherford|NJ|07073|US
+1201 Boardwalk|Atlantic City|NJ|08401|US
+1 Constitution Plaza|Hartford|CT|06103|US
+165 Church St|New Haven|CT|06510|US
+25 Dorrance St|Providence|RI|02903|US
+389 Congress St|Portland|ME|04101|US
+1 Eagle Sq|Concord|NH|03301|US
+149 Church St|Burlington|VT|05401|US
+900 E Broad St|Richmond|VA|23219|US
+931 Thomas Jefferson Pkwy|Charlottesville|VA|22902|US
+3200 Mount Vernon Memorial Hwy|Mount Vernon|VA|22121|US
+1 Memorial Ave|Arlington|VA|22211|US
+800 S Mint St|Charlotte|NC|28202|US
+1 E Edenton St|Raleigh|NC|27601|US
+1 Lodge St|Asheville|NC|28803|US
+80 Broad St|Charleston|SC|29401|US
+1737 Main St|Columbia|SC|29201|US
+55 Trinity Ave SW|Atlanta|GA|30303|US
+1 AMB Dr NW|Atlanta|GA|30313|US
+225 Baker St NW|Atlanta|GA|30313|US
+755 Battery Ave SE|Atlanta|GA|30339|US
+2 E Bay St|Savannah|GA|31401|US
+3400 SW 34th St|Gainesville|FL|32608|US
+400 S Monroe St|Tallahassee|FL|32399|US
+1 Stadium Dr|Jacksonville|FL|32202|US
+4001 Victory Way|Kissimmee|FL|34747|US
+1180 Seven Seas Dr|Lake Buena Vista|FL|32836|US
+6000 Universal Blvd|Orlando|FL|32819|US
+4201 N Dale Mabry Hwy|Tampa|FL|33607|US
+3500 Pan American Dr|Miami|FL|33133|US
+601 Biscayne Blvd|Miami|FL|33132|US
+907 Whitehead St|Key West|FL|33040|US
+1 Space Commerce Way|Merritt Island|FL|32953|US
+600 Dexter Ave|Montgomery|AL|36130|US
+710 20th St N|Birmingham|AL|35203|US
+1 Tranquility Base|Huntsville|AL|35805|US
+400 High St|Jackson|MS|39201|US
+1300 Perdido St|New Orleans|LA|70112|US
+1500 Sugar Bowl Dr|New Orleans|LA|70112|US
+900 N 3rd St|Baton Rouge|LA|70802|US
+600 Charles St|Nashville|TN|37201|US
+2804 Opryland Dr|Nashville|TN|37214|US
+3764 Elvis Presley Blvd|Memphis|TN|38116|US
+191 Beale St|Memphis|TN|38103|US
+1400 Neyland Dr|Knoxville|TN|37916|US
+700 Central Ave|Louisville|KY|40202|US
+700 Capital Ave|Frankfort|KY|40601|US
+411 Woody Hayes Dr|Columbus|OH|43210|US
+1100 Rock and Roll Blvd|Cleveland|OH|44114|US
+601 Lakeside Ave E|Cleveland|OH|44114|US
+100 Joe Nuxhall Way|Cincinnati|OH|45202|US
+801 Plum St|Cincinnati|OH|45202|US
+2121 George Halas Dr NW|Canton|OH|44708|US
+2 Woodward Ave|Detroit|MI|48226|US
+2100 Woodward Ave|Detroit|MI|48201|US
+20900 Oakwood Blvd|Dearborn|MI|48124|US
+1201 S Main St|Ann Arbor|MI|48104|US
+100 N Capitol Ave|Lansing|MI|48933|US
+200 W Washington St|Indianapolis|IN|46204|US
+4790 W 16th St|Speedway|IN|46222|US
+500 S Capitol Ave|Indianapolis|IN|46225|US
+1 Notre Dame Ave|Notre Dame|IN|46556|US
+121 N LaSalle St|Chicago|IL|60602|US
+1060 W Addison St|Chicago|IL|60613|US
+1901 W Madison St|Chicago|IL|60612|US
+111 S Michigan Ave|Chicago|IL|60603|US
+233 S Wacker Dr|Chicago|IL|60606|US
+1400 S Lake Shore Dr|Chicago|IL|60605|US
+301 S 2nd St|Springfield|IL|62701|US
+200 E Wells St|Milwaukee|WI|53202|US
+1 Brewers Way|Milwaukee|WI|53214|US
+1265 Lombardi Ave|Green Bay|WI|54304|US
+2 E Main St|Madison|WI|53703|US
+350 S 5th St|Minneapolis|MN|55415|US
+1 Twins Way|Minneapolis|MN|55403|US
+60 E Broadway|Bloomington|MN|55425|US
+75 Rev Dr Martin Luther King Jr Blvd|Saint Paul|MN|55155|US
+1007 E Grand Ave|Des Moines|IA|50319|US
+1200 Market St|St. Louis|MO|63103|US
+700 Clark Ave|St. Louis|MO|63102|US
+100 W Memorial Dr|Kansas City|MO|64108|US
+1 Arrowhead Dr|Kansas City|MO|64129|US
+4525 Oak St|Kansas City|MO|64111|US
+300 SW 10th Ave|Topeka|KS|66612|US
+455 N Main St|Wichita|KS|67202|US
+1445 K St|Lincoln|NE|68508|US
+3701 S 10th St|Omaha|NE|68107|US
+600 E Boulevard Ave|Bismarck|ND|58505|US
+500 E Capitol Ave|Pierre|SD|57501|US
+13000 SD-244|Keystone|SD|57751|US
+2300 N Lincoln Blvd|Oklahoma City|OK|73105|US
+100 W Reno Ave|Oklahoma City|OK|73102|US
+1500 Marshall St|Little Rock|AR|72202|US
+1200 President Clinton Ave|Little Rock|AR|72201|US
+1100 Congress Ave|Austin|TX|78701|US
+2100 San Jacinto Blvd|Austin|TX|78712|US
+1 AT&T Way|Arlington|TX|76011|US
+1500 Marilla St|Dallas|TX|75201|US
+411 Elm St|Dallas|TX|75202|US
+900 Bagby St|Houston|TX|77002|US
+1501 NASA Pkwy|Houston|TX|77058|US
+501 Crawford St|Houston|TX|77002|US
+300 Alamo Plaza|San Antonio|TX|78205|US
+100 Military Plaza|San Antonio|TX|78205|US
+1000 Throckmorton St|Fort Worth|TX|76102|US
+300 N Campbell St|El Paso|TX|79901|US
+490 Old Santa Fe Trail|Santa Fe|NM|87501|US
+1 Civic Plaza NW|Albuquerque|NM|87102|US
+1700 W Washington St|Phoenix|AZ|85007|US
+401 E Jefferson St|Phoenix|AZ|85004|US
+1 Cardinals Dr|Glendale|AZ|85305|US
+255 W Alameda St|Tucson|AZ|85701|US
+8 S Center Rd|Grand Canyon Village|AZ|86023|US
+200 E Colfax Ave|Denver|CO|80203|US
+2001 Blake St|Denver|CO|80205|US
+1701 Bryant St|Denver|CO|80204|US
+18300 W Alameda Pkwy|Morrison|CO|80465|US
+30 E Pikes Peak Ave|Colorado Springs|CO|80903|US
+350 N State St|Salt Lake City|UT|84103|US
+50 N West Temple|Salt Lake City|UT|84150|US
+301 W South Temple|Salt Lake City|UT|84101|US
+700 W Jefferson St|Boise|ID|83702|US
+200 W 24th St|Cheyenne|WY|82002|US
+1301 E 6th Ave|Helena|MT|59601|US
+3600 S Las Vegas Blvd|Las Vegas|NV|89109|US
+3570 S Las Vegas Blvd|Las Vegas|NV|89109|US
+495 S Main St|Las Vegas|NV|89101|US
+101 N Carson St|Carson City|NV|89701|US
+200 N Spring St|Los Angeles|CA|90012|US
+1000 Vin Scully Ave|Los Angeles|CA|90012|US
+1111 S Figueroa St|Los Angeles|CA|90015|US
+1200 Getty Center Dr|Los Angeles|CA|90049|US
+2800 E Observatory Rd|Los Angeles|CA|90027|US
+6801 Hollywood Blvd|Los Angeles|CA|90028|US
+1001 Stadium Dr|Inglewood|CA|90301|US
+1313 Disneyland Dr|Anaheim|CA|92802|US
+100 Universal City Plaza|Universal City|CA|91608|US
+202 C St|San Diego|CA|92101|US
+100 Park Blvd|San Diego|CA|92101|US
+2920 Zoo Dr|San Diego|CA|92101|US
+1 Dr Carlton B Goodlett Pl|San Francisco|CA|94102|US
+24 Willie Mays Plaza|San Francisco|CA|94107|US
+1 Ferry Building|San Francisco|CA|94111|US
+151 3rd St|San Francisco|CA|94103|US
+55 Music Concourse Dr|San Francisco|CA|94118|US
+1 Infinite Loop|Cupertino|CA|95014|US
+1600 Amphitheatre Pkwy|Mountain View|CA|94043|US
+450 Serra Mall|Stanford|CA|94305|US
+4900 Marie P DeBartolo Way|Santa Clara|CA|95054|US
+1 Frank H Ogawa Plaza|Oakland|CA|94612|US
+1315 10th St|Sacramento|CA|95814|US
+886 Cannery Row|Monterey|CA|93940|US
+600 4th Ave|Seattle|WA|98104|US
+400 Broad St|Seattle|WA|98109|US
+1250 1st Ave S|Seattle|WA|98134|US
+800 Occidental Ave S|Seattle|WA|98134|US
+416 Sid Snyder Ave SW|Olympia|WA|98504|US
+808 W Spokane Falls Blvd|Spokane|WA|99201|US
+1221 SW 4th Ave|Portland|OR|97204|US
+1945 SE Water Ave|Portland|OR|97214|US
+900 Court St NE|Salem|OR|97301|US
+120 4th Ave|Juneau|AK|99801|US
+632 W 6th Ave|Anchorage|AK|99501|US
+415 S Beretania St|Honolulu|HI|96813|US
+1 Arizona Memorial Pl|Honolulu|HI|96818|US
+2005 Kalia Rd|Honolulu|HI|96815|US

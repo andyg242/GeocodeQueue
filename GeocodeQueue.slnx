@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeocodeQueue.Worker/GeocodeQueue.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GeocodeQueue.Tests/GeocodeQueue.Tests.csproj" />
+  </Folder>
+</Solution>
